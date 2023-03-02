@@ -1,0 +1,10 @@
+.layout{
+padding: 40px;
+display: flex;
+align-items: center;
+flex-direction: column;
+/* background-color: rgb(252, 208, 241); */
+/* background-color: red; */
+background-image: url(../../images/leaves.jpg);
+background-size: 100%;
+}
